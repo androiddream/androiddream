@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i am currently working on flutter
-bitcoin lover，miner
-fan of zoltan pozsar and perry mehrling
+i am currently working on flutter。
+bitcoin lover，miner，
+fan of zoltan pozsar and perry mehrling。
